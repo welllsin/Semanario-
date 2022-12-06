@@ -1,0 +1,30 @@
+table,
+th,
+td {
+  color: rgb(74, 0, 109);
+  border-radius: 20px;
+  border: 1px rgb(68, 0, 255) solid;
+  border-bottom: 3px rgba(0, 0, 0, 0.5) solid;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-shadow: 2px 2px 2px rgb(118, 2, 185);
+  background-image: url(https://i.pinimg.com/originals/cc/fe/cf/ccfecfa89542fcb059d42d4c1332b647.gif);
+  background-attachment: fixed;
+  background-size: 2000px 400px;
+  background-repeat: no-repeat;
+}
+th {
+  padding: 5px;
+}
+
+h1 {
+  color: rgb(74, 0, 109);
+  text-align: center;
+  text-shadow: 3px 3px 3px rgb(118, 2, 185);
+}
+body {
+  background-image: url(https://i.pinimg.com/originals/c7/6b/d0/c76bd053b15bad840c0c8df71e4ebe69.gif);
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
